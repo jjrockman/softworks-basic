@@ -1,0 +1,1 @@
+Softworks Basic is a compatible superset of the AlphaBasic Language. It runs on Windows and 
